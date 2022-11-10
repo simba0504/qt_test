@@ -9,8 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using WaAutoReplyBot;
-
-namespace WASender
+  namespace WASender
 {
     public partial class Activate : MyMaterialPopOp
     {
