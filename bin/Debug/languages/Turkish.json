@@ -1,0 +1,878 @@
+[
+  {
+    "name": "AppName",
+    "value": "Gönderen 1.0"
+  },
+  {
+    "name": "Column1",
+    "value": "Sütun1"
+  },
+  {
+    "name": "Number",
+    "value": "Sayı"
+  },
+  {
+    "name": "Column2",
+    "value": "Sütun2"
+  },
+  {
+    "name": "DownloadSample",
+    "value": "Örnek Excel'i İndirin"
+  },
+  {
+    "name": "UploadSampleExcel",
+    "value": "Excel'i Yükle"
+  },
+  {
+    "name": "ContectSender",
+    "value": "Göndericiyle İletişime Geç"
+  },
+  {
+    "name": "GroupSender",
+    "value": "Grup Gönderen"
+  },
+  {
+    "name": "Tools",
+    "value": "Aletler"
+  },
+  {
+    "name": "Filedownloadedsuccessfully",
+    "value": "Dosya başarıyla indirildi!"
+  },
+  {
+    "name": "WABulkSender",
+    "value": "WA Toplu Gönderici"
+  },
+  {
+    "name": "SelectExcel",
+    "value": "Excel'i seçin"
+  },
+  {
+    "name": "PleaseselectExcelfilesformatonly",
+    "value": "Lütfen yalnızca Excel dosyaları (.xls) biçimini seçin"
+  },
+  {
+    "name": "AddNew",
+    "value": "Yeni ekle"
+  },
+  {
+    "name": "KeyMarkers",
+    "value": "Anahtar İşaretleyiciler"
+  },
+  {
+    "name": "AddKeyMarker",
+    "value": "Anahtar İşaretçisi Ekle"
+  },
+  {
+    "name": "SaveNClose",
+    "value": "Kaydetmek"
+  },
+  {
+    "name": "KeyMarkerFormatinIncorrect",
+    "value": "Anahtar İşareti Biçimi Yanlış"
+  },
+  {
+    "name": "OK",
+    "value": "TAMAM"
+  },
+  {
+    "name": "SelectedKeyMarkeralreadyExist",
+    "value": "Seçili KeyMarker zaten var"
+  },
+  {
+    "name": "Delete",
+    "value": "Silmek"
+  },
+  {
+    "name": "WrongKey",
+    "value": "Anahtar İşaretleyici {{ KEY :"
+  },
+  {
+    "name": "Target",
+    "value": "Hedef"
+  },
+  {
+    "name": "Messages",
+    "value": "Mesajlar"
+  },
+  {
+    "name": "MessageOne",
+    "value": "mesaj 1"
+  },
+  {
+    "name": "MessageTwo",
+    "value": "Mesaj 2"
+  },
+  {
+    "name": "MessageThree",
+    "value": "Mesaj 3"
+  },
+  {
+    "name": "MessageFour",
+    "value": "Mesaj 4"
+  },
+  {
+    "name": "MessageFive",
+    "value": "Mesaj 5"
+  },
+  {
+    "name": "Attachments",
+    "value": "ekler"
+  },
+  {
+    "name": "Addfile",
+    "value": "Dosya Ekle"
+  },
+  {
+    "name": "Yourfirstmessage",
+    "value": "* İlk mesajınız"
+  },
+  {
+    "name": "YourSecondmessage",
+    "value": "* İkinci mesajınız"
+  },
+  {
+    "name": "YourThirdmessage",
+    "value": "* Üçüncü mesajınız"
+  },
+  {
+    "name": "YourFourthmessage",
+    "value": "* Dördüncü mesajınız"
+  },
+  {
+    "name": "YourFifthmessage",
+    "value": "* Beşinci mesajınız"
+  },
+  {
+    "name": "DelaySettings",
+    "value": "Gecikme Ayarları"
+  },
+  {
+    "name": "Wait",
+    "value": "Beklemek"
+  },
+  {
+    "name": "secondsafterevery",
+    "value": "her saniyeden sonra"
+  },
+  {
+    "name": "to",
+    "value": "ile"
+  },
+  {
+    "name": "Clear",
+    "value": "Temizlemek"
+  },
+  {
+    "name": "StartCampaign",
+    "value": "Kampanya Başlat"
+  },
+  {
+    "name": "secondsbeforeeverymessage",
+    "value": "her mesajdan saniyeler önce"
+  },
+  {
+    "name": "AddKeyMarkers",
+    "value": "Anahtar İşaretçileri Ekle"
+  },
+  {
+    "name": "RandomNumber",
+    "value": "Rastgele Sayı"
+  },
+  {
+    "name": "PleaseEnterCampaignName",
+    "value": "Lütfen Kampanya Adını Girin"
+  },
+  {
+    "name": "CampaignName",
+    "value": "Kampanya ismi"
+  },
+  {
+    "name": "UntitledGroupCampaign",
+    "value": "Adsız Grup Kampanyası"
+  },
+  {
+    "name": "UntitledCampaign",
+    "value": "Adsız Kampanya"
+  },
+  {
+    "name": "RowNo",
+    "value": "Sıra No"
+  },
+  {
+    "name": "Errors",
+    "value": "Hatalar"
+  },
+  {
+    "name": "WhatsAppBot",
+    "value": "WhatsApp Botu"
+  },
+  {
+    "name": "Rules",
+    "value": "Tüzük"
+  },
+  {
+    "name": "AddRule",
+    "value": "Kural Ekle"
+  },
+  {
+    "name": "Log",
+    "value": "Kayıt"
+  },
+  {
+    "name": "Status",
+    "value": "Durum"
+  },
+  {
+    "name": "Start",
+    "value": "Başlama"
+  },
+  {
+    "name": "Stop",
+    "value": "Durmak"
+  },
+  {
+    "name": "IsActive",
+    "value": "Aktif"
+  },
+  {
+    "name": "UserInput",
+    "value": "Kullanıcı Girişi"
+  },
+  {
+    "name": "Type",
+    "value": "Tip"
+  },
+  {
+    "name": "Match",
+    "value": "Kibrit"
+  },
+  {
+    "name": "ReplySend",
+    "value": "Cevap Gönder"
+  },
+  {
+    "name": "NotMatch",
+    "value": "Eşleşmiyor"
+  },
+  {
+    "name": "Fallback",
+    "value": "Geri çekilmek"
+  },
+  {
+    "name": "PleaseaddRules",
+    "value": "Lütfen Kuralları ekleyin"
+  },
+  {
+    "name": "Run",
+    "value": "Koşmak"
+  },
+  {
+    "name": "InitiateWhatsAppScaneQRCodefromyourrmobile",
+    "value": "WhatsApp'ı başlat"
+  },
+  {
+    "name": "ClicktoInitiate",
+    "value": "Başlatmak için tıklayın"
+  },
+  {
+    "name": "ChatName",
+    "value": "Sohbet Adı"
+  },
+  {
+    "name": "ImportentNotes",
+    "value": "Önemli Notlar"
+  },
+  {
+    "name": "Keepapplicationopenwhilesendingmessagesanduntilallmessagesaresentfromyourmobile",
+    "value": "1) Mesaj gönderirken ve tüm mesajlar cep telefonunuzdan gönderilene kadar uygulamayı açık tutun"
+  },
+  {
+    "name": "ClearWhatsAppchathistoryafter5001000150020000messagesasperyourphoneconfiguration",
+    "value": "2) Telefon yapılandırmanıza göre 500/1000/1500/20000 mesajdan sonra WhatsApp sohbet geçmişini temizleyin"
+  },
+  {
+    "name": "WaSendertendstosubmitmessagestoyourphoneisnotresponsiblefordeliveryofthemessage",
+    "value": "3) WaSender, telefonunuza mesaj gönderme eğilimindedir, mesajın iletilmesinden sorumlu değildir."
+  },
+  {
+    "name": "Completed",
+    "value": "Tamamlanmış"
+  },
+  {
+    "name": "PleasefollowStepNo1FirstInitialiseWhatsapp",
+    "value": "Lütfen Adım 1'i takip edin. İlk önce Whatsapp'ı başlatın."
+  },
+  {
+    "name": "Processisalreadyrunning",
+    "value": "İşlem zaten çalışıyor"
+  },
+  {
+    "name": "RunGroup",
+    "value": "Grubu Çalıştır"
+  },
+  {
+    "name": "KeyMarker",
+    "value": "Anahtar İşaretleyici"
+  },
+  {
+    "name": "Select",
+    "value": "Seçme"
+  },
+  {
+    "name": "GroupsJoiner",
+    "value": "Gruplar Marangoz"
+  },
+  {
+    "name": "GroupJoin",
+    "value": "Gruba Katıl"
+  },
+  {
+    "name": "secondsbeforeeveryGroupJoin",
+    "value": "her Grup Katılımından saniyeler önce"
+  },
+  {
+    "name": "StartJoining",
+    "value": "Katılmaya Başla"
+  },
+  {
+    "name": "GroupLink",
+    "value": "Grup Bağlantısı"
+  },
+  {
+    "name": "PleaseFollowStepnoThree",
+    "value": "Lütfen Adım 3'ü takip edin"
+  },
+  {
+    "name": "GrabGroupLinks",
+    "value": "Grup Bağlantılarını Alın"
+  },
+  {
+    "name": "OpenBrowser",
+    "value": "Tarayıcı aç"
+  },
+  {
+    "name": "Clickbellowbuttontoopenbrowser",
+    "value": "Tarayıcıyı açmak için aşağıdaki düğmeye tıklayın"
+  },
+  {
+    "name": "Navigatetoanywebsitewherelistedgrouplinkstheclickbellowbellowbuton",
+    "value": "Grup bağlantılarının listelendiği herhangi bir web sitesine gidin, aşağıdaki feryat düğmesini tıklayın"
+  },
+  {
+    "name": "StartGrabbing",
+    "value": "Kapmaya Başla"
+  },
+  {
+    "name": "NoGroupLinkfoundincurrentPage",
+    "value": "Geçerli Sayfada Grup Bağlantısı bulunamadı"
+  },
+  {
+    "name": "GrabChatList",
+    "value": "Sohbet Listesini Al"
+  },
+  {
+    "name": "InitiateWhatsAppScaneQRCodefromyourmobile",
+    "value": "WhatsApp'ı başlat"
+  },
+  {
+    "name": "GetGroupMember",
+    "value": "Grup Üyesi Alın"
+  },
+  {
+    "name": "OpenanyGroupchatClickbuttonbellow",
+    "value": "Herhangi bir Grup sohbetini açın"
+  },
+  {
+    "name": "PleaseGotoanygroupchat",
+    "value": "Lütfen herhangi bir grup sohbetine gidin"
+  },
+  {
+    "name": "fallback",
+    "value": "geri çekilmek"
+  },
+  {
+    "name": "Usefallback",
+    "value": "Yedek kullan"
+  },
+  {
+    "name": "If",
+    "value": "Eğer..."
+  },
+  {
+    "name": "UserSend",
+    "value": "Kullanıcı Gönder..."
+  },
+  {
+    "name": "Condition",
+    "value": "Şart"
+  },
+  {
+    "name": "Which",
+    "value": "Hangi"
+  },
+  {
+    "name": "ThenReplywith",
+    "value": "Ardından, İle Cevapla..."
+  },
+  {
+    "name": "AddMessage",
+    "value": "Mesaj ekle"
+  },
+  {
+    "name": "Message",
+    "value": "İleti"
+  },
+  {
+    "name": "Cancel",
+    "value": "İptal"
+  },
+  {
+    "name": "Save",
+    "value": "Kaydetmek"
+  },
+  {
+    "name": "Confirm",
+    "value": "Onaylamak"
+  },
+  {
+    "name": "AreyousuretodeletethisRule",
+    "value": "Bu Kuralı silmek istediğinizden emin misiniz?"
+  },
+  {
+    "name": "ReplyMessage",
+    "value": "Mesajı Yanıtla"
+  },
+  {
+    "name": "TypeYourMessagehere",
+    "value": "Mesajınızı buraya yazın"
+  },
+  {
+    "name": "Files",
+    "value": "Dosyalar"
+  },
+  {
+    "name": "Add",
+    "value": "Ekle"
+  },
+  {
+    "name": "GroupNames",
+    "value": "Grup Adları"
+  },
+  {
+    "name": "PleaseCheckMobileNumberyouhaveadded",
+    "value": "Lütfen eklediğiniz Cep Numarasını Kontrol Edin"
+  },
+  {
+    "name": "ShouldNotbeempty",
+    "value": "Boş olmamalı"
+  },
+  {
+    "name": "ContactNumberShouldNotbeEmpty",
+    "value": "İletişim Numarası Boş Bırakılmamalıdır"
+  },
+  {
+    "name": "MessageShouldNotbeEmpty",
+    "value": "Mesaj Boş Olmamalı"
+  },
+  {
+    "name": "delayAfterMessagesShouldNotbeEmpty",
+    "value": "Mesajlardan Sonra Gecikme Boş Bırakılmamalıdır"
+  },
+  {
+    "name": "delayAfterMessagesFromShouldNotbeEmpty",
+    "value": "Gönderen Mesajlardan Sonra Gecikme Boş Olmamalı"
+  },
+  {
+    "name": "delayAfterMessagesTOShouldNotbeEmpty",
+    "value": "Boş Bırakılmaması Gereken Mesajlardan Sonra Gecikme"
+  },
+  {
+    "name": "delayAfterEveryMessageFromShouldNotbeEmpty",
+    "value": "Her Mesajdan Sonra Gecikme Boş Olmamalı"
+  },
+  {
+    "name": "delayAfterEveryMessageToShouldNotbeEmpty",
+    "value": "Her Mesajdan Sonra Gecikme Boş Olmamalı"
+  },
+  {
+    "name": "ShouldGraterthenoero",
+    "value": "0'dan sonra rendelenmeli"
+  },
+  {
+    "name": "delayAfterMessages_ShouldGraterthenoero",
+    "value": "Mesajlardan Sonra Gecikme 0'dan Sonra Rendelenmeli"
+  },
+  {
+    "name": "delayAfterMessagesFrom_ShouldGraterthenoero",
+    "value": "Mesajlardan Sonra Gecikmeli Rende Sonra 0"
+  },
+  {
+    "name": "delayAfterMessagesTo_ShouldGraterthenoero",
+    "value": "Mesajlardan Sonra Gecikmeli Sonra Rendelenmeli 0"
+  },
+  {
+    "name": "delayAfterEveryMessageFrom_ShouldGraterthenoero",
+    "value": "Her Mesajdan Sonra Gecikmeli Rendelemeli Sonra 0"
+  },
+  {
+    "name": "delayAfterEveryMessageTo_ShouldGraterthenoero",
+    "value": "Her Mesajdan Sonra Gecikmeli Daha Sonra Rendelenmeli 0"
+  },
+  {
+    "name": "thetoamountismustbegraterthenstartingamount",
+    "value": "'to' miktarı, başlangıç ​​miktarından daha büyük olmalıdır"
+  },
+  {
+    "name": "UsermessageMustEmptyincaseoffallback",
+    "value": "Kullanıcı mesajı, geri dönüş olması durumunda Boş olmalıdır"
+  },
+  {
+    "name": "PleaseAddatleastoneMessage",
+    "value": "Lütfen en az bir Mesaj ekleyin"
+  },
+  {
+    "name": "PleaseEnterAmessage",
+    "value": "Lütfen bir mesaj girin"
+  },
+  {
+    "name": "PleaseaddatleastoneGroupinlist",
+    "value": "Lütfen listeye en az bir Grup ekleyin"
+  },
+  {
+    "name": "PleaseaddatleastoneContactinlist",
+    "value": "Lütfen listeye en az bir Kişi ekleyin"
+  },
+  {
+    "name": "ClickbellowButton",
+    "value": "1) Aşağıdaki Düğmeye tıklayın"
+  },
+  {
+    "name": "ScanQRCode",
+    "value": "2) QR Kodunu Tara"
+  },
+  {
+    "name": "WaitfortheExcel",
+    "value": "3) Excel'i bekleyin"
+  },
+  {
+    "name": "Now",
+    "value": "Şimdi"
+  },
+  {
+    "name": "GrabNow",
+    "value": "Şimdi Yakala"
+  },
+  {
+    "name": "GrabGroupMembers",
+    "value": "Grup Üyelerini Yakala"
+  },
+  {
+    "name": "ClickbellowButtonScanQRCode",
+    "value": "1) Aşağıdaki Düğmeye tıklayın QR Kodunu Tara"
+  },
+  {
+    "name": "OpenAnyGroup",
+    "value": "2) Herhangi Bir Grubu Açın"
+  },
+  {
+    "name": "GrabWhatsAppGroupLinksfromwebpage",
+    "value": "Web sayfasından WhatsApp Grup Bağlantılarını alın"
+  },
+  {
+    "name": "OpenAnywebpagewheregivengrouplinks",
+    "value": "2) Verilen grup bağlantılarının olduğu herhangi bir web sayfasını açın"
+  },
+  {
+    "name": "ThenClickonSTARTButton",
+    "value": "3) Ardından BAŞLAT Düğmesine tıklayın"
+  },
+  {
+    "name": "AutoGroupJoiner",
+    "value": "Otomatik Grup Birleştirici"
+  },
+  {
+    "name": "AddUploadGroupLinks",
+    "value": "1) Grup Bağlantılarını Ekle / Yükle"
+  },
+  {
+    "name": "ScanWAQRCode",
+    "value": "2) WA QR Kodunu Tara"
+  },
+  {
+    "name": "StartNow",
+    "value": "Şimdi başla"
+  },
+  {
+    "name": "WhatsAppAutoResponderBot",
+    "value": "WhatsApp Otomatik Yanıtlayıcı Botu"
+  },
+  {
+    "name": "SetRules",
+    "value": "1) Kuralları Belirleyin"
+  },
+  {
+    "name": "AddReplyMessages",
+    "value": "2) Yanıt Mesajları Ekle"
+  },
+  {
+    "name": "GeneralSettings",
+    "value": "Genel Ayarlar"
+  },
+  {
+    "name": "ChromeProfilePath",
+    "value": "Krom Profil Yolu"
+  },
+  {
+    "name": "InputPathisnotCorrectfolderpath",
+    "value": "Giriş Yolu Doğru klasör yolu değil"
+  },
+  {
+    "name": "SettingsSavedSuccessfully",
+    "value": "Ayarlar Başarıyla Kaydedildi"
+  },
+  {
+    "name": "MessageSendingType",
+    "value": "Mesaj Gönderme Türü"
+  },
+  {
+    "name": "CopyPaste",
+    "value": "Kopyala yapıştır"
+  },
+  {
+    "name": "Typeamessage",
+    "value": "Bir mesaj yazın"
+  },
+  {
+    "name": "Activate",
+    "value": "etkinleştir"
+  },
+  {
+    "name": "ActivateAppName",
+    "value": "etkinleştir"
+  },
+  {
+    "name": "YourActivationCodeis",
+    "value": "Aktivasyon Kodunuz..."
+  },
+  {
+    "name": "ProvideYourActivationKeyHere",
+    "value": "Aktivasyon Anahtarınızı Burada Sağlayın..."
+  },
+  {
+    "name": "ActivateNow",
+    "value": "Şimdi aktifleştir"
+  },
+  {
+    "name": "Exit",
+    "value": "çıkış"
+  },
+  {
+    "name": "ActivationSuccessfull",
+    "value": "Aktivasyon Başarılı"
+  },
+  {
+    "name": "InvalidActivationKey",
+    "value": "Geçersiz Aktivasyon Anahtarı"
+  },
+  {
+    "name": "Name",
+    "value": "İsim"
+  },
+  {
+    "name": "WhatsAppNumberFilter",
+    "value": "WhatsApp Numara Filtresi"
+  },
+  {
+    "name": "AddUploadNumbers",
+    "value": "1) Numara Ekle / Yükle"
+  },
+  {
+    "name": "NumberCheck",
+    "value": "Numara Kontrolü"
+  },
+  {
+    "name": "secondsbeforeeveryNumberCheck",
+    "value": "her Numara Kontrolünden saniyeler önce"
+  },
+  {
+    "name": "StartChecking",
+    "value": "Kontrole Başla"
+  },
+  {
+    "name": "ContactListGrabber",
+    "value": "Kişi Listesi Yakalayıcı"
+  },
+  {
+    "name": "HitGrabNowButton",
+    "value": "2) Şimdi Yakala Düğmesine basın"
+  },
+  {
+    "name": "GrabActiveGroupMembers",
+    "value": "Aktif Grup Üyelerini Yakala"
+  },
+  {
+    "name": "TotalFound ",
+    "value": "Toplam Bulunan"
+  },
+  {
+    "name": "Export",
+    "value": "İhracat"
+  },
+  {
+    "name": "Nothingtoexport",
+    "value": "Dışa aktarılacak bir şey yok"
+  },
+  {
+    "name": "GoogleMapDataEExtractor",
+    "value": "Google Harita Veri Çıkarıcı"
+  },
+  {
+    "name": "Usethatwindowtosearchforbusinessesandwhensearchresultsareshown",
+    "value": "İşletmeleri aramak için ve arama sonuçları gösterildiğinde bu pencereyi kullanın\n  tarayıcıyı başlatmak için 'Kapmayı Başlat' düğmesine tıklayın."
+  },
+  {
+    "name": "PleaseSearchsomething",
+    "value": "Lütfen bir şeyler arayın"
+  },
+  {
+    "name": "ImportInWaSender",
+    "value": "Numaraları içe aktar"
+  },
+  {
+    "name": "EnterCountryCode",
+    "value": "Ülke Kodunu Girin"
+  },
+  {
+    "name": "SearchYourQUeryonGMap",
+    "value": "Sorgunuzu G Haritasında Arayın"
+  },
+  {
+    "name": "HitStart",
+    "value": "Başlat'a basın"
+  },
+  {
+    "name": "Count",
+    "value": "Saymak"
+  },
+  {
+    "name": "ReviewCount",
+    "value": "İnceleme Sayısı"
+  },
+  {
+    "name": "Catagory",
+    "value": "kategori"
+  },
+  {
+    "name": "MobileNumber",
+    "value": "Cep numarası"
+  },
+  {
+    "name": "Address",
+    "value": "Adres"
+  },
+  {
+    "name": "Website",
+    "value": "İnternet sitesi"
+  },
+  {
+    "name": "PlusCode",
+    "value": "ArtıKodu"
+  },
+  {
+    "name": "AddCountryCode",
+    "value": "Ülke Kodu Ekle"
+  },
+  {
+    "name": "One",
+    "value": "1)"
+  },
+  {
+    "name": "Two",
+    "value": "2)"
+  },
+  {
+    "name": "Three",
+    "value": "3)"
+  }
+  ,
+	{
+        "name": "Rating",
+        "value": "Değerlendirme"
+    },
+    {
+        "name": "RatingCount",
+        "value": "Derecelendirme Sayısı"
+    },
+	{
+        "name": "AddButtons",
+        "value": "Düğme Ekle"
+    },
+	{
+        "name": "Buttons",
+        "value": "Düğmeler"
+    },
+	{
+        "name": "ButtonMessage",
+        "value": "Düğme Mesajı"
+    },
+	{
+        "name": "ButtonText",
+        "value": "Düğme Metni"
+    },
+	{
+        "name": "ButtonType",
+        "value": "Düğme Türü"
+    },
+	{
+        "name": "NormalButton",
+        "value": "Normal Düğme"
+    },
+	{
+        "name": "Link",
+        "value": "Bağlantı"
+    },
+	{
+        "name": "PhoneNumber",
+        "value": "Telefon numarası"
+    },
+	{
+        "name": "EnterURL",
+        "value": "URL girin"
+    },
+	{
+        "name": "EnterPhoneNumber",
+        "value": "Telefon Numarasını Girin"
+    },
+	{
+        "name": "AddButton",
+        "value": "Düğme Ekle"
+    }
+	
+	,
+	{
+        "name": "GrabAllSavedContacts",
+        "value": "Tüm Kaydedilmiş Kişileri Yakala"
+    },
+	{
+        "name": "GrabAllGroups",
+        "value": "Tüm Grupları Yakala"
+    },
+	{
+        "name": "ChooseGroup",
+        "value": "Grup Seç"
+    },
+	{
+        "name": "PleaseSelectGroup",
+        "value": "Lütfen Grup Seçiniz"
+    },
+	{
+        "name": "CopyPasteNumber",
+        "value": "Numaraları Kopyala Yapıştır"
+    },
+	{
+        "name": "Import",
+        "value": "İçe aktarmak"
+    }
+	
+]
